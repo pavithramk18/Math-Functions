@@ -1,2 +1,2 @@
-console.log("Hi Welcome to HTML")
+console.log("Hi Welcome to Java Script Basic coding")
 
